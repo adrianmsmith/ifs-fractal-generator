@@ -5,7 +5,7 @@
 #include <memory.h>
 #include <math.h>
 
-/* Virtual Bitmap Routines */
+/* Virtual Bitmap Routines, by Robin Salih */
 
 struct bmpfile
 	{

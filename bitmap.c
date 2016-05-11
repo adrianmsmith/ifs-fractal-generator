@@ -2,6 +2,8 @@
 
 #define UNIX 1
 
+/* By Robin Salih */
+
 int newbitmap (IMAGE *(*handle), char *filename, int width, int height, int bpp)
 	{
 	struct bmpfile bmp;
