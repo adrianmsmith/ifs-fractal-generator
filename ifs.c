@@ -87,9 +87,10 @@ void help(void)
      "  Size of image          -size    100x100\n"
      "  Filename to write to   -output  output.bmp\n"
      "  File containing defs   -defs    fractint.ifs\n"
-     "  Name of IFS            -ifs\n"
+     "  Name of IFS            -ifs     fern\n"
      "  No. of points to skip  -skip    10\n"
      "  No. of points to calc  -points  1000\n"
+     "Note: Image is cropped\n"
    );
 }
 
